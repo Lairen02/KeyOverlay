@@ -1,5 +1,8 @@
 
 # KeyOverlay
+
+> This project is modified based on [birbattac/KeyOverlay-birb-edit-](https://github.com/birbattac/KeyOverlay-birb-edit-).
+
 Awesome edit that makes it an actual overlay rather than a bordered window
 
 (need to change config to move it sorry)
