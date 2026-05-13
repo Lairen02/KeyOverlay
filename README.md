@@ -16,7 +16,7 @@ Right-click the application to open the quick settings menu:
 
 If you need to change the actual keys, edit `config.txt`.
 
-![]()![2024-10-25_19-35-57-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/b7c53d8b-0a1a-471a-90b2-f6c4628fba5a)
+<img width="310" height="174" alt="ManiaView" src="https://github.com/user-attachments/assets/029237ec-88df-4a79-969e-23b2bb8f23e3" />
 
 (full desktop video no obs overlay required)
 
