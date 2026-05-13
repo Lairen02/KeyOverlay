@@ -16,7 +16,7 @@ Right-click the application to open the quick settings menu:
 
 If you need to change the actual keys, edit `config.txt`.
 
-<img width="310" height="174" alt="ManiaView" src="https://github.com/user-attachments/assets/029237ec-88df-4a79-969e-23b2bb8f23e3" />
+<img width="930" height="522" alt="ManiaView" src="https://github.com/user-attachments/assets/029237ec-88df-4a79-969e-23b2bb8f23e3" />
 
 (full desktop video no obs overlay required)
 
