@@ -1,16 +1,24 @@
-
 # KeyOverlay
 
 > This project is modified based on [birbattac/KeyOverlay-birb-edit-](https://github.com/birbattac/KeyOverlay-birb-edit-).
 
 Awesome edit that makes it an actual overlay rather than a bordered window
 
-(need to change config to move it sorry)
- 
+This custom overlay version changes the original behavior where the overlay position had to be edited through config. The overlay can now be dragged directly, and the window position can also be locked when you do not want it to move.
+
+Right-click the application to open the quick settings menu:
+
+- Lock position
+- Hide overlay
+- osu mode (A S)
+- mania mode (D F J K)
+- Close application
+
+If you need to change the actual keys, edit `config.txt`.
+
 ![]()![2024-10-25_19-35-57-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/b7c53d8b-0a1a-471a-90b2-f6c4628fba5a)
 
 (full desktop video no obs overlay required)
-
 
 # config.txt properties
 keyAmount - The amount of keys in the program (see the readme.txt for recommended widths for certain keyAmounts).
@@ -46,6 +54,3 @@ backgroundColor, keyColor, PressFontColor, borderColor, barColor, fontColor - Ch
 backgroundImage - Lets you set a background. Put the image into Resources directory and then put the filename into this property ex. "bg.png" (without the quote symbols). Makes sure the background is the same resolution as your window and if you want transparency on your background you have to put the transparency on the image itself.
 
 maxFPS - Sets the target FPS for the program to run
-
-
-
