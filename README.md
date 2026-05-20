@@ -6,6 +6,8 @@ Awesome edit that makes it an actual overlay rather than a bordered window
 
 This custom overlay version changes the original behavior where the overlay position had to be edited through config. The overlay can now be dragged directly, and the window position can also be locked when you do not want it to move.
 
+- 編程由Codex編寫
+
 Right-click the application to open the quick settings menu:
 
 - Lock position
